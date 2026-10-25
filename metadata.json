@@ -1,0 +1,6 @@
+{
+  "name": "BizMate LK",
+  "description": "Premium POS and Business Management app for Sri Lankan shops with Sinhala/English support, offline Room database, and LKR accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
